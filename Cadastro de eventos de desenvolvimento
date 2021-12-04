@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-04T04:31:58.402Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="44tLaOrM0IDi4_rA6Mfo" version="15.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-04T05:28:20.521Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="3a22tUHlXlDBR_1W-xOp" version="15.9.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="868" dy="488" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1085" dy="610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -15,7 +15,7 @@
         <mxCell id="G8UgyNl2UVey2ydHyCaq-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="G8UgyNl2UVey2ydHyCaq-8" target="G8UgyNl2UVey2ydHyCaq-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="G8UgyNl2UVey2ydHyCaq-8" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Consultar&amp;nbsp;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;evento?&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="G8UgyNl2UVey2ydHyCaq-8" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Consultar &lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;evento?&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="40" y="124" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="G8UgyNl2UVey2ydHyCaq-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="G8UgyNl2UVey2ydHyCaq-12" target="G8UgyNl2UVey2ydHyCaq-21">
@@ -25,22 +25,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="G8UgyNl2UVey2ydHyCaq-12" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Consultar&amp;nbsp; &lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;por data?&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="200" y="124" width="120" height="70" as="geometry" />
+          <mxGeometry x="320" y="124" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="G8UgyNl2UVey2ydHyCaq-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="G8UgyNl2UVey2ydHyCaq-13" target="G8UgyNl2UVey2ydHyCaq-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="G8UgyNl2UVey2ydHyCaq-13" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Data&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="shape=manualInput;whiteSpace=wrap;html=1;size=13;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="520" y="124" width="120" height="70" as="geometry" />
+          <mxGeometry x="640" y="124" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="G8UgyNl2UVey2ydHyCaq-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="G8UgyNl2UVey2ydHyCaq-21" target="G8UgyNl2UVey2ydHyCaq-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="G8UgyNl2UVey2ydHyCaq-21" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Informe data:&lt;/font&gt;&lt;/font&gt;" style="shape=display;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="360" y="130" width="120" height="59" as="geometry" />
+          <mxGeometry x="480" y="130" width="120" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="G8UgyNl2UVey2ydHyCaq-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=11;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="G8UgyNl2UVey2ydHyCaq-24" target="G8UgyNl2UVey2ydHyCaq-82">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="G8UgyNl2UVey2ydHyCaq-24" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit ; font-size: 11px&quot;&gt;&amp;nbsp; Evento com data, palestrante(s) e participantes&lt;/font&gt;&lt;/font&gt;" style="shape=display;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="680" y="130" width="120" height="59" as="geometry" />
+          <mxGeometry x="800" y="130" width="120" height="59" as="geometry" />
         </mxCell>
         <mxCell id="G8UgyNl2UVey2ydHyCaq-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="G8UgyNl2UVey2ydHyCaq-27" target="G8UgyNl2UVey2ydHyCaq-31">
           <mxGeometry relative="1" as="geometry" />
@@ -49,43 +52,159 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="G8UgyNl2UVey2ydHyCaq-27" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit ; font-size: 11px&quot;&gt;&lt;font style=&quot;vertical-align: inherit ; font-size: 11px&quot;&gt;&lt;font style=&quot;vertical-align: inherit ; font-size: 11px&quot;&gt;&lt;font style=&quot;vertical-align: inherit ; font-size: 11px&quot;&gt;&lt;font style=&quot;vertical-align: inherit ; font-size: 11px&quot;&gt;&lt;font style=&quot;vertical-align: inherit ; font-size: 11px&quot;&gt;&lt;font style=&quot;vertical-align: inherit ; font-size: 11px&quot;&gt;&lt;font style=&quot;vertical-align: inherit ; font-size: 11px&quot;&gt;&lt;font style=&quot;vertical-align: inherit ; font-size: 11px&quot;&gt;&lt;font style=&quot;vertical-align: inherit ; font-size: 11px&quot;&gt;Consultar&amp;nbsp; &lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;vertical-align: inherit ; font-size: 11px&quot;&gt;&lt;font style=&quot;vertical-align: inherit ; font-size: 11px&quot;&gt;&lt;font style=&quot;vertical-align: inherit ; font-size: 11px&quot;&gt;&lt;font style=&quot;vertical-align: inherit ; font-size: 11px&quot;&gt;&lt;font style=&quot;vertical-align: inherit ; font-size: 11px&quot;&gt;&lt;font style=&quot;vertical-align: inherit ; font-size: 11px&quot;&gt;&lt;font style=&quot;vertical-align: inherit ; font-size: 11px&quot;&gt;&lt;font style=&quot;vertical-align: inherit ; font-size: 11px&quot;&gt;por palestrante?&lt;br&gt;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="200" y="220" width="120" height="70" as="geometry" />
+          <mxGeometry x="320" y="220" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="G8UgyNl2UVey2ydHyCaq-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="G8UgyNl2UVey2ydHyCaq-29" target="G8UgyNl2UVey2ydHyCaq-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="G8UgyNl2UVey2ydHyCaq-29" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Palestrante&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="shape=manualInput;whiteSpace=wrap;html=1;size=13;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="520" y="220" width="120" height="70" as="geometry" />
+          <mxGeometry x="640" y="220" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="G8UgyNl2UVey2ydHyCaq-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="G8UgyNl2UVey2ydHyCaq-31" target="G8UgyNl2UVey2ydHyCaq-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="G8UgyNl2UVey2ydHyCaq-31" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Informe &lt;br&gt;palestrante:&lt;/font&gt;&lt;/font&gt;" style="shape=display;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="360" y="226" width="120" height="59" as="geometry" />
+          <mxGeometry x="480" y="226" width="120" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="G8UgyNl2UVey2ydHyCaq-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=11;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="G8UgyNl2UVey2ydHyCaq-32" target="G8UgyNl2UVey2ydHyCaq-82">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="G8UgyNl2UVey2ydHyCaq-32" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit ; font-size: 11px&quot;&gt;&amp;nbsp; Evento com data, palestrante(s) e participantes&lt;/font&gt;&lt;/font&gt;" style="shape=display;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="680" y="226" width="120" height="59" as="geometry" />
+          <mxGeometry x="800" y="226" width="120" height="59" as="geometry" />
         </mxCell>
         <mxCell id="G8UgyNl2UVey2ydHyCaq-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="G8UgyNl2UVey2ydHyCaq-35" target="G8UgyNl2UVey2ydHyCaq-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="G8UgyNl2UVey2ydHyCaq-35" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit ; font-size: 11px&quot;&gt;&lt;font style=&quot;vertical-align: inherit ; font-size: 11px&quot;&gt;&lt;font style=&quot;vertical-align: inherit ; font-size: 11px&quot;&gt;&lt;font style=&quot;vertical-align: inherit ; font-size: 11px&quot;&gt;&lt;font style=&quot;vertical-align: inherit ; font-size: 11px&quot;&gt;&lt;font style=&quot;vertical-align: inherit ; font-size: 11px&quot;&gt;&lt;font style=&quot;vertical-align: inherit ; font-size: 11px&quot;&gt;&lt;font style=&quot;vertical-align: inherit ; font-size: 11px&quot;&gt;&lt;font style=&quot;vertical-align: inherit ; font-size: 11px&quot;&gt;&lt;font style=&quot;vertical-align: inherit ; font-size: 11px&quot;&gt;Consultar&amp;nbsp; &lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;vertical-align: inherit ; font-size: 11px&quot;&gt;&lt;font style=&quot;vertical-align: inherit ; font-size: 11px&quot;&gt;&lt;font style=&quot;vertical-align: inherit ; font-size: 11px&quot;&gt;&lt;font style=&quot;vertical-align: inherit ; font-size: 11px&quot;&gt;&lt;font style=&quot;vertical-align: inherit ; font-size: 11px&quot;&gt;&lt;font style=&quot;vertical-align: inherit ; font-size: 11px&quot;&gt;&lt;font style=&quot;vertical-align: inherit ; font-size: 11px&quot;&gt;&lt;font style=&quot;vertical-align: inherit ; font-size: 11px&quot;&gt;por participante?&lt;br&gt;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="200" y="320" width="120" height="70" as="geometry" />
+          <mxGeometry x="320" y="320" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="G8UgyNl2UVey2ydHyCaq-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="G8UgyNl2UVey2ydHyCaq-37" target="G8UgyNl2UVey2ydHyCaq-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="G8UgyNl2UVey2ydHyCaq-37" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Participante&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="shape=manualInput;whiteSpace=wrap;html=1;size=13;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="520" y="320" width="120" height="70" as="geometry" />
+          <mxGeometry x="640" y="320" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="G8UgyNl2UVey2ydHyCaq-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="G8UgyNl2UVey2ydHyCaq-39" target="G8UgyNl2UVey2ydHyCaq-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="G8UgyNl2UVey2ydHyCaq-39" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Informe &lt;br&gt;participante:&lt;/font&gt;&lt;/font&gt;" style="shape=display;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="360" y="326" width="120" height="59" as="geometry" />
+          <mxGeometry x="480" y="326" width="120" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="G8UgyNl2UVey2ydHyCaq-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=11;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="G8UgyNl2UVey2ydHyCaq-40" target="G8UgyNl2UVey2ydHyCaq-82">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="G8UgyNl2UVey2ydHyCaq-40" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit ; font-size: 11px&quot;&gt;&amp;nbsp; Evento com data, palestrante(s) e participantes&lt;/font&gt;&lt;/font&gt;" style="shape=display;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="680" y="326" width="120" height="59" as="geometry" />
+          <mxGeometry x="800" y="326" width="120" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="G8UgyNl2UVey2ydHyCaq-43" value="Sim" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="440" y="140" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="G8UgyNl2UVey2ydHyCaq-44" value="Não" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="377" y="193" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="G8UgyNl2UVey2ydHyCaq-45" value="Não" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="377" y="193" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="G8UgyNl2UVey2ydHyCaq-46" value="Sim" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="439" y="237" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="G8UgyNl2UVey2ydHyCaq-47" value="Não" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="376" y="290" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="G8UgyNl2UVey2ydHyCaq-48" value="Sim" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="439" y="338" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="G8UgyNl2UVey2ydHyCaq-49" value="Não" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="120" y="525.5" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="G8UgyNl2UVey2ydHyCaq-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="G8UgyNl2UVey2ydHyCaq-50" target="G8UgyNl2UVey2ydHyCaq-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G8UgyNl2UVey2ydHyCaq-50" value="&lt;font style=&quot;vertical-align: inherit ; font-size: 11px&quot;&gt;&lt;font style=&quot;vertical-align: inherit ; font-size: 11px&quot;&gt;&amp;nbsp; &amp;nbsp; Informe&amp;nbsp;sua idade,&lt;br&gt;data, palestrante &lt;br&gt;e participantes:&lt;/font&gt;&lt;/font&gt;" style="shape=display;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="199" y="451" width="120" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="G8UgyNl2UVey2ydHyCaq-51" value="Sim" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="164" y="140" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="G8UgyNl2UVey2ydHyCaq-52" value="Não" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="100" y="195" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="G8UgyNl2UVey2ydHyCaq-53" value="" style="endArrow=classic;html=1;rounded=0;fontSize=11;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="G8UgyNl2UVey2ydHyCaq-59">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="195" as="sourcePoint" />
+            <mxPoint x="100" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G8UgyNl2UVey2ydHyCaq-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="G8UgyNl2UVey2ydHyCaq-54" target="G8UgyNl2UVey2ydHyCaq-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G8UgyNl2UVey2ydHyCaq-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="G8UgyNl2UVey2ydHyCaq-54" target="G8UgyNl2UVey2ydHyCaq-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G8UgyNl2UVey2ydHyCaq-54" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit ; font-size: 11px&quot;&gt;&lt;font style=&quot;vertical-align: inherit ; font-size: 11px&quot;&gt;&lt;font style=&quot;vertical-align: inherit ; font-size: 11px&quot;&gt;&lt;font style=&quot;vertical-align: inherit ; font-size: 11px&quot;&gt;&lt;font style=&quot;vertical-align: inherit ; font-size: 11px&quot;&gt;&lt;font style=&quot;vertical-align: inherit ; font-size: 11px&quot;&gt;&lt;font style=&quot;vertical-align: inherit ; font-size: 11px&quot;&gt;&lt;font style=&quot;vertical-align: inherit ; font-size: 11px&quot;&gt;&lt;font style=&quot;vertical-align: inherit ; font-size: 11px&quot;&gt;&lt;font style=&quot;vertical-align: inherit ; font-size: 11px&quot;&gt;Tem até 100&amp;nbsp;&lt;br&gt;participantes?&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="839" y="445.5" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="G8UgyNl2UVey2ydHyCaq-55" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Informe &lt;br&gt;palestrante e&lt;br&gt;participantes:&lt;/font&gt;&lt;/font&gt;" style="shape=display;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="480" y="795.5" width="120" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="G8UgyNl2UVey2ydHyCaq-56" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Palestrante e participantes&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="shape=manualInput;whiteSpace=wrap;html=1;size=13;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="640" y="690" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="G8UgyNl2UVey2ydHyCaq-57" value="&lt;span style=&quot;font-size: 11px&quot;&gt;&quot;Você necessita ter &lt;br&gt;18 anos ou mais!&quot;&lt;/span&gt;" style="shape=display;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="680" y="545.5" width="120" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="G8UgyNl2UVey2ydHyCaq-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="G8UgyNl2UVey2ydHyCaq-59" target="G8UgyNl2UVey2ydHyCaq-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G8UgyNl2UVey2ydHyCaq-59" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit ; font-size: 11px&quot;&gt;&lt;font style=&quot;vertical-align: inherit ; font-size: 11px&quot;&gt;&lt;font style=&quot;vertical-align: inherit ; font-size: 11px&quot;&gt;&lt;font style=&quot;vertical-align: inherit ; font-size: 11px&quot;&gt;&lt;font style=&quot;vertical-align: inherit ; font-size: 11px&quot;&gt;&lt;font style=&quot;vertical-align: inherit ; font-size: 11px&quot;&gt;&lt;font style=&quot;vertical-align: inherit ; font-size: 11px&quot;&gt;&lt;font style=&quot;vertical-align: inherit ; font-size: 11px&quot;&gt;&lt;font style=&quot;vertical-align: inherit ; font-size: 11px&quot;&gt;&lt;font style=&quot;vertical-align: inherit ; font-size: 11px&quot;&gt;Cadastrar evento?&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="40" y="445.5" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="G8UgyNl2UVey2ydHyCaq-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="G8UgyNl2UVey2ydHyCaq-61" target="G8UgyNl2UVey2ydHyCaq-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G8UgyNl2UVey2ydHyCaq-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="G8UgyNl2UVey2ydHyCaq-61" target="G8UgyNl2UVey2ydHyCaq-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G8UgyNl2UVey2ydHyCaq-61" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit ; font-size: 11px&quot;&gt;&lt;font style=&quot;vertical-align: inherit ; font-size: 11px&quot;&gt;&lt;font style=&quot;vertical-align: inherit ; font-size: 11px&quot;&gt;&lt;font style=&quot;vertical-align: inherit ; font-size: 11px&quot;&gt;&lt;font style=&quot;vertical-align: inherit ; font-size: 11px&quot;&gt;&lt;font style=&quot;vertical-align: inherit ; font-size: 11px&quot;&gt;&lt;font style=&quot;vertical-align: inherit ; font-size: 11px&quot;&gt;&lt;font style=&quot;vertical-align: inherit ; font-size: 11px&quot;&gt;&lt;font style=&quot;vertical-align: inherit ; font-size: 11px&quot;&gt;&lt;font style=&quot;vertical-align: inherit ; font-size: 11px&quot;&gt;A data é futura?&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="520" y="445.5" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="G8UgyNl2UVey2ydHyCaq-62" value="&quot;A data precisa &lt;br&gt;ser futura!&quot;" style="shape=display;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="520" y="545.5" width="120" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="G8UgyNl2UVey2ydHyCaq-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="G8UgyNl2UVey2ydHyCaq-63" target="G8UgyNl2UVey2ydHyCaq-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G8UgyNl2UVey2ydHyCaq-63" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Idade, data, palestrante e participantes&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="shape=manualInput;whiteSpace=wrap;html=1;size=13;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="361" y="445" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="G8UgyNl2UVey2ydHyCaq-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="G8UgyNl2UVey2ydHyCaq-64" target="G8UgyNl2UVey2ydHyCaq-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G8UgyNl2UVey2ydHyCaq-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="G8UgyNl2UVey2ydHyCaq-64" target="G8UgyNl2UVey2ydHyCaq-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G8UgyNl2UVey2ydHyCaq-64" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit ; font-size: 11px&quot;&gt;&lt;font style=&quot;vertical-align: inherit ; font-size: 11px&quot;&gt;&lt;font style=&quot;vertical-align: inherit ; font-size: 11px&quot;&gt;&lt;font style=&quot;vertical-align: inherit ; font-size: 11px&quot;&gt;&lt;font style=&quot;vertical-align: inherit ; font-size: 11px&quot;&gt;&lt;font style=&quot;vertical-align: inherit ; font-size: 11px&quot;&gt;&lt;font style=&quot;vertical-align: inherit ; font-size: 11px&quot;&gt;&lt;font style=&quot;vertical-align: inherit ; font-size: 11px&quot;&gt;&lt;font style=&quot;vertical-align: inherit ; font-size: 11px&quot;&gt;&lt;font style=&quot;vertical-align: inherit ; font-size: 11px&quot;&gt;Tem 18 anos &lt;br&gt;ou mais?&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="679" y="445.5" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="G8UgyNl2UVey2ydHyCaq-65" value="&quot;Permitidos até&lt;br&gt;100 participantes!&quot;" style="shape=display;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="839" y="540" width="120" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="G8UgyNl2UVey2ydHyCaq-74" value="Sim" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="462" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="G8UgyNl2UVey2ydHyCaq-91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="G8UgyNl2UVey2ydHyCaq-76" target="G8UgyNl2UVey2ydHyCaq-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G8UgyNl2UVey2ydHyCaq-76" value="Cadastrar evento" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1000" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <object label="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;Fim&lt;/font&gt;&lt;/font&gt;" id="G8UgyNl2UVey2ydHyCaq-82">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+            <mxGeometry x="959" y="225" width="120" height="60" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="G8UgyNl2UVey2ydHyCaq-90" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit ; font-size: 11px&quot;&gt;&amp;nbsp; Evento com data, palestrante(s) e participantes&lt;/font&gt;&lt;/font&gt;" style="shape=display;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1000" y="540" width="120" height="59" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
